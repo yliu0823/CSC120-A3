@@ -55,7 +55,6 @@ Your program should be able to mirror the following sets of words (at minimum):
 * you -> I
 * my -> your
 * your -> my
-
 You may expand this list if you wish.
 
 
